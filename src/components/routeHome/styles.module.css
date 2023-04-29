@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  gap: 140px;
+  aling-itens: flex-start;
+  justify-content: center;
+}
+
+.content {
+   display: flex;
+   flex-direction: column;
+   gap: 70px;
+}
+
+.sectionCardprimary, .sectionCardsegundary, .footerCard{
+  display: flex;
+  gap: 48px;
+  justify-content: center;
+  margin: 100px 0px;
+}
+
+.footerCard {
+  padding: 2rem;
+  border-radius: 5px;
+  background-color: #FEF7FF;
+}

@@ -1,0 +1,25 @@
+.app {
+  text-align: center;
+}
+
+.mainScroll {
+  margin: 0 auto;
+  width: 1300px;
+  height: 100vh;
+  padding: 0px 3rem;
+  overflow-y: scroll !important;
+}
+
+.mainScroll::-webkit-scrollbar{
+  margin: 5rem;
+  width: 20px;
+  background: rgba(29, 27, 32, 0.12);
+  
+}
+.mainScroll::webkit-scrollbar-track {
+  background: rgba(29, 27, 32, 0.12);
+}
+
+.mainScroll::-webkit-scrollbar-thumb{
+  background: #1D1B20;
+}

@@ -1,0 +1,9 @@
+button.segundaryButton {
+  background: none;
+  display: flex;
+  gap: 19px;
+  align-items: center;
+  border: none;
+  padding: 10px 32px;
+  color: white;
+}
