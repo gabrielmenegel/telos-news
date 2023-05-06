@@ -1,0 +1,33 @@
+.carouselGlobal {
+  width: 1200px;
+  margin: 0 auto;
+  border: 1px solid rgba(0, 0, 0, 0.07);
+  border-radius: 20px;
+  padding: 50px 20px;
+}
+
+.carouselContent {
+  display: flex;
+  junstify-content: center;
+  align-itens: center;
+  text-align: center;
+  gap: 3rem;
+}
+
+.carouselContent h1 {
+  font-family: "Paralucent";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+}
+
+.carouselContent p {
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+}

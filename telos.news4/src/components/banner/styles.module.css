@@ -1,0 +1,53 @@
+.container {
+    position: absolute;
+    flex-direction: column;
+    bottom: 30px;
+    left: 100px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.text {
+    margin-left: 155px;
+}
+
+h2 {
+    color: #0E1A22;
+    line-height: 1rem;
+    font-family: 'Campton';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 20px;
+}
+
+h3 {
+    color: #4582A9;
+    font-family: 'Paralucent';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+h5 {
+    font-family: 'Paralucent';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(14, 26, 34, 0.7);
+}
+
+span {
+    font-family: 'Paralucent';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(14, 26, 34, 0.9);
+}
